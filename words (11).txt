@@ -1,0 +1,9 @@
+@title Treasure Hunt
+@showtext off
+
+# Âm Xx /ks/
+📦 | box
+🦊 | fox
+🐂 | ox
+🕯️ | wax
+🎲 | six
